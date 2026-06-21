@@ -1,6 +1,6 @@
 # Listas Compostas: Notas de Alunos em Python
 
-Projeto de estudo desenvolvido em Python que permite cadastrar alunos, armazenar suas notas em listas compostas, calcular a média e consultar as notas individuais pelo nome.
+Projeto desenvolvido em Python que permite cadastrar alunos, armazenar suas notas em listas compostas, calcular a média e consultar as notas individuais pelo nome.
 
 ## Objetivo do projeto
 
